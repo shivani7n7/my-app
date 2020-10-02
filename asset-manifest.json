@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shivani7n7/my-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/shivani7n7/my-app/static/js/main.8cce9f93.chunk.js",
+    "main.js.map": "/shivani7n7/my-app/static/js/main.8cce9f93.chunk.js.map",
+    "runtime-main.js": "/shivani7n7/my-app/static/js/runtime-main.96c5f15f.js",
+    "runtime-main.js.map": "/shivani7n7/my-app/static/js/runtime-main.96c5f15f.js.map",
+    "static/js/2.763b34e5.chunk.js": "/shivani7n7/my-app/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/shivani7n7/my-app/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/shivani7n7/my-app/index.html",
+    "precache-manifest.519b56d235aba685da2b163916a6c60e.js": "/shivani7n7/my-app/precache-manifest.519b56d235aba685da2b163916a6c60e.js",
+    "service-worker.js": "/shivani7n7/my-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/shivani7n7/my-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/shivani7n7/my-app/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/shivani7n7/my-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96c5f15f.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8cce9f93.chunk.js"
+  ]
+}
